@@ -1,0 +1,6 @@
+DOMAIN-REGEX,.*hyp-api\.mihoyo\.com
+DOMAIN-REGEX,.*downloader-api\.mihoyo\.com
+DOMAIN-REGEX,autopatch.*\.bh3\.com
+DOMAIN-REGEX,autopatch.*\.yuanshen\.com
+DOMAIN-SUFFIX,autopatchcn.bhsr.com
+DOMAIN-SUFFIX,autopatchcn.juequling.com
