@@ -1,0 +1,6 @@
+DOMAIN-REGEX,.*hyp-api\.hoyoverse\.com
+DOMAIN-REGEX,.*downloader-api\.hoyoverse\.com
+DOMAIN-REGEX,autopatch.*\.honkaiimpact3\.com
+DOMAIN-REGEX,autopatch.*\.yuanshen\.com
+DOMAIN-SUFFIX,autopatchos.starrails.com
+DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
