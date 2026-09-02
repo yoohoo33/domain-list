@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,account.hoyoverse.com
+DOMAIN-REGEX,dispatchos.*\.yuanshen\.com
+DOMAIN-REGEX,os.*dispatch\.yuanshen\.com
+DOMAIN-REGEX,globaldp.*\.starrails\.com
+DOMAIN-REGEX,prod.*\.starrails\.com
+DOMAIN-REGEX,globaldp.*\.zenlesszonezero\.com
+DOMAIN-REGEX,prod.*\.zenlesszonezero\.com
