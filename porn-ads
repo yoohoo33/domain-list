@@ -1,3 +1,4 @@
+DOMAIN-REGEX,gamingadult.com
 DOMAIN-REGEX,ourdream.*\.(ai|com)
 DOMAIN-SUFFIX,acquiredeceasedundress.com
 DOMAIN-SUFFIX,adglare.net
@@ -14,8 +15,19 @@ DOMAIN-SUFFIX,fhgte.com
 DOMAIN-SUFFIX,g2fame.com
 DOMAIN-SUFFIX,guidepaparazzisurface.com
 DOMAIN-SUFFIX,hkyjapok.in
+DOMAIN-SUFFIX,ku34bh9la09.com
 DOMAIN-SUFFIX,playhubconnect.com
 DOMAIN-SUFFIX,sadbaguette.com
 DOMAIN-SUFFIX,snaptrckr.fun
 DOMAIN-SUFFIX,swipey.ai
 DOMAIN-SUFFIX,trialhd.com
+#18comic
+DOMAIN-REGEX,afengy.com
+DOMAIN-REGEX,bmuhuhajbap.in
+DOMAIN-REGEX,cloudfront.net
+DOMAIN-REGEX,gk-lp-op.org
+DOMAIN-REGEX,hitgame4us.online
+DOMAIN-REGEX,labsda.com
+DOMAIN-REGEX,mzilqzbxnfvxofgsqotxmrukv.com
+DOMAIN-REGEX,qcshorturl.quest
+DOMAIN-REGEX,tp-lp7.com
