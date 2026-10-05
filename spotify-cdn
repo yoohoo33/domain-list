@@ -1,5 +1,12 @@
-DOMAIN,audio-ak-spotify-com.akamaized.net
-DOMAIN,audio4-ak-spotify-com.akamaized.net
-DOMAIN,heads-ak-spotify-com.akamaized.net
-DOMAIN,heads4-ak-spotify-com.akamaized.net
-DOMAIN,cdn-spotify-experiments.conductrics.com
+audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
+heads-ak-spotify-com.akamaized.net
+heads4-ak-spotify-com.akamaized.net
+cdn-spotify-experiments.conductrics.com
+spotify.map.fastly.net
+spotify.map.fastlylb.net
+pscdn.co
+scdn.co
+spotify-com.akamaized.net
+spotifycdn.com
+spotifycdn.net
