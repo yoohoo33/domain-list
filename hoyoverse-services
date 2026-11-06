@@ -1,7 +1,12 @@
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyo.link
-DOMAIN-SUFFIX,account.hoyoverse.com
-DOMAIN-REGEX,dispatchos.*\.yuanshen\.com
+DOMAIN,account.hoyoverse.com
+DOMAIN,passport.hoyoverse.com
+DOMAIN,api-os-takumi.hoyoverse.com
+DOMAIN,api-sdk.hoyoverse.com
+DOMAIN-KEYWORD,-public-api.hoyoverse.com
+DOMAIN-KEYWORD,-sdk-os.hoyoverse.com
+DOMAIN,dispatchosglobal.hoyoverse.com
 DOMAIN-REGEX,os.*dispatch\.yuanshen\.com
 DOMAIN-REGEX,globaldp.*\.starrails\.com
 DOMAIN-REGEX,prod.*\.starrails\.com
