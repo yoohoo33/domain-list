@@ -9,6 +9,13 @@ DOMAIN-REGEX,api.*\.hoyoverse\.com$
 DOMAIN-REGEX,sdk.*\.hoyoverse\.com$
 DOMAIN,dispatchosglobal.hoyoverse.com
 
+DOMAIN,westglobal01.honkaiimpact3.com
+DOMAIN,outer-dp-usa01.honkaiimpact3.com
+DOMAIN,outer-dp-eur01.honkaiimpact3.com
+DOMAIN,outer-dp-jp01.honkaiimpact3.com
+DOMAIN,outer-dp-kr01.honkaiimpact3.com
+DOMAIN,outer-dp-asia01.honkaiimpact3.com
+
 DOMAIN,dispatchosglobal.yuanshen.com
 DOMAIN,osusadispatch.yuanshen.com
 DOMAIN,oseurodispatch.yuanshen.com
@@ -22,7 +29,10 @@ DOMAIN,prod-official-asia-dp01.starrails.com
 DOMAIN,prod-official-cht-dp01.starrails.com
 
 DOMAIN,globaldp-prod-os01.zenlesszonezero.com
-DOMAIN,prod-official-usa-dp01.zenlesszonezero.com
-DOMAIN,prod-official-eur-dp01.zenlesszonezero.com
-DOMAIN,prod-official-asia-dp01.zenlesszonezero.com
-DOMAIN,prod-official-cht-dp01.zenlesszonezero.com
+DOMAIN,prod-gf-us.zenlesszonezero.com
+DOMAIN,prod-gf-eu.zenlesszonezero.com
+DOMAIN,prod-gf-jp.zenlesszonezero.com
+DOMAIN,prod-gf-sg.zenlesszonezero.com
+DOMAIN,prod-ping-us.zenlesszonezero.com
+DOMAIN,prod-ping-eu.zenlesszonezero.com
+DOMAIN,prod-ping-jp.zenlesszonezero.com
