@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,www.douyin.com
 DOMAIN-REGEX,api[0-9]+.*amemv\.com
 # 哔哩哔哩
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
