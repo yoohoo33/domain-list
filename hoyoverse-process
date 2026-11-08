@@ -15,6 +15,7 @@ PROCESS-NAME,GenshinImpact.exe
 PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact
 PROCESS-NAME,com.miHoYo.GenshinImpact
 PROCESS-NAME,com.miHoYo.GenshinImpact.vn
+DOMAIN-REGEX,os.*\.yuanshen\.com$
 
 PROCESS-PATH-WILDCARD,*HoYoPlay*StarRail.exe
 PROCESS-NAME,com.hoyoverse.cloudgames.hkrpgoversea
