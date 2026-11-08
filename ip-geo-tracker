@@ -1,12 +1,12 @@
-# 抖音
+# douyin
 DOMAIN-SUFFIX,www.douyin.com
 DOMAIN-REGEX,api[0-9]+.*amemv\.com
-# 哔哩哔哩
+# bilibili
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
 DOMAIN-SUFFIX,app.bilibili.com
-# 米游社
+# miyoushe
 DOMAIN-SUFFIX,bbs-api.miyoushe.com
