@@ -1,33 +1,42 @@
+# hoyolab
 DOMAIN,bbs-api-os.hoyolab.com
 DOMAIN,www.hoyolab.com
 DOMAIN,wiki.hoyolab.com
 DOMAIN,hoyo.link
-
+# hoyoverse
 DOMAIN,account.hoyoverse.com
 DOMAIN,passport.hoyoverse.com
 DOMAIN-REGEX,api.*\.hoyoverse\.com$
 DOMAIN-REGEX,sdk.*\.hoyoverse\.com$
 DOMAIN,dispatchosglobal.hoyoverse.com
-
+# bh3
 DOMAIN,westglobal01.honkaiimpact3.com
+DOMAIN,jpglobal1.honkaiimpact3.com
+DOMAIN,krglobal1.honkaiimpact3.com
+DOMAIN,osglobal1.honkaiimpact3.com
+DOMAIN,asiaglobal1.honkaiimpact3.com
 DOMAIN,outer-dp-usa01.honkaiimpact3.com
 DOMAIN,outer-dp-eur01.honkaiimpact3.com
 DOMAIN,outer-dp-jp01.honkaiimpact3.com
 DOMAIN,outer-dp-kr01.honkaiimpact3.com
+DOMAIN,outer-dp-overseas01.honkaiimpact3.com
 DOMAIN,outer-dp-asia01.honkaiimpact3.com
-
+DOMAIN,usa01-client-report.honkaiimpact3.com
+DOMAIN,overseas01-client-report.honkaiimpact3.com
+DOMAIN,asia01-client-report.honkaiimpact3.com
+# hk4e
 DOMAIN,dispatchosglobal.yuanshen.com
 DOMAIN,osusadispatch.yuanshen.com
 DOMAIN,oseurodispatch.yuanshen.com
 DOMAIN,osasiadispatch.yuanshen.com
 DOMAIN,oschtdispatch.yuanshen.com
-
+# hkrpg
 DOMAIN,globaldp-prod-os01.starrails.com
 DOMAIN,prod-official-usa-dp01.starrails.com
 DOMAIN,prod-official-eur-dp01.starrails.com
 DOMAIN,prod-official-asia-dp01.starrails.com
 DOMAIN,prod-official-cht-dp01.starrails.com
-
+# nap
 DOMAIN,globaldp-prod-os01.zenlesszonezero.com
 DOMAIN,prod-gf-us.zenlesszonezero.com
 DOMAIN,prod-gf-eu.zenlesszonezero.com
